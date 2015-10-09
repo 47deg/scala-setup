@@ -2,16 +2,16 @@
 
 To get setup for class, do the following.
 
-1. Install git client. Download it from 
+1. **Install git client.** Download it from 
 
    [https://git-scm.com/downloads](https://git-scm.com/downloads)
-1. Download this repository. Use the following command
+1. **Download this repository.** Use the following command
 
    ```git clone https://github.com/47deg/scala-setup.git```
-1. Install SBT. Download it from
+1. **Install SBT.** Download it from
 
   [http://www.scala-sbt.org/](http://www.scala-sbt.org/)
-1. Test SBT. In the root directory for the scala-setup (it should contain build.sbt) run sbt and then enter the following
+1. **Test SBT.** In the root directory for the scala-setup (it should contain build.sbt) run sbt and then enter the following
    commands:
 
   ```
@@ -21,12 +21,12 @@ To get setup for class, do the following.
   ```
   
   Run should have printed out "Hello World". Test should have said "Passed 1".
-1. Install Intellij and its Scala plugin. (You can instead use Eclipse, but you will be somewhat more on your own). You can download the free community edition of Intellij at
+1. **Install Intellij and its Scala plugin.** (You can instead use Eclipse, but you will be somewhat more on your own). You can download the free community edition of Intellij at
 
    [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
    
    Run Intellij. Under the menu Preferences/Plugins install the Jetbrains Scala plugin.
-1. Test Intellij. Run Intellij. Select menu File/Open and select the root directory for scala-setup. On the next screen make sure all the checkboxes are checked and you have selected Java 1.6 (or newer). 
+1. **Test Intellij.** Run Intellij. Select menu File/Open and select the root directory for scala-setup. On the next screen make sure all the checkboxes are checked and you have selected Java 1.6 (or newer). 
 
 You should now see a Project browse pane on the left that will let you browse through the files in scala-setup. You should take a look at the following two files:
 
