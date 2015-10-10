@@ -36,7 +36,7 @@ To get setup for class, do the following.
    Run Intellij. Under the menu Preferences/Plugins install the Jetbrains Scala plugin.
 1. **Test Intellij.** Run Intellij. Select menu File/Open and select the root directory for scala-setup. On the next screen make sure all the checkboxes are checked and you have selected Java 1.8. 
 
-You should now see a Project browse pane on the left that will let you browse through the files in scala-setup. You should take a look at the following two files:
+    You should now see a Project browse pane on the left that will let you browse through the files in scala-setup. You should      take a look at the following two files:
 
 ```
    src/main/scala/com/fourtysevendeg/Hello.scala
