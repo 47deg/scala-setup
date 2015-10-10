@@ -2,6 +2,8 @@
 
 To get setup for class, do the following.
 
+1. **Apple Macbook Pro.** Class will be taught using an Apple Macbook Pro running OSX. The class software should also work on Windows or Linux machines but you will somewhat more on your own. 
+
 1. **Install Java 8.** JDK is best but JRE should be ok.
 
    [http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
