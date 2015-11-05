@@ -12,7 +12,7 @@ scalacOptions in Test ++= Seq("-Yrangepos")
 
 libraryDependencies ++= Seq(
   "org.scala-lang" % "scala-reflect" % scalaVersion.value,
-  "com.persist" % "persist-json_2.11" % "1.0.0",
+  "com.persist" % "persist-json_2.11" % "1.1.0",
   "org.apache.spark" % "spark-core_2.11" % "1.5.1",
   "org.apache.spark" % "spark-mllib_2.11" % "1.5.1",
   "org.apache.spark" % "spark-graphx_2.11" % "1.5.1",
