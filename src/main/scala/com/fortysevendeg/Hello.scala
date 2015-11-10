@@ -1,4 +1,4 @@
-package com.fourtysevendeg
+package com.fortysevendeg
 
 object Hello {
 
