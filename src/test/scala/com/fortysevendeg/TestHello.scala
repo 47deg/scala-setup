@@ -1,12 +1,11 @@
 package com.fortysevendeg
 
-import org.specs2._
+import com.fortysevendeg.lambdatest._
 
-class TestHello extends Specification {
-  def is = s2"""
-    Testing Hello class
-       hello method $t1
-    """
-
-  def t1 = Hello.hello mustEqual "Hello World"
+class TestHello extends LambdaTest {
+  val act = label("Testing Hello Class") {
+    test("Test method hello") {
+      assertEq(Hello.hello, "Hello World")
+    }
+  }
 }
