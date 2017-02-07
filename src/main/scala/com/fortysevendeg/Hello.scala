@@ -1,11 +1,7 @@
 package com.fortysevendeg
 
-object Hello {
-
+object Hello extends App {
   def hello: String = "Hello World"
 
-  def main(args: Array[String]): Unit = {
-    println(hello)
-  }
-
+  println(hello)
 }
